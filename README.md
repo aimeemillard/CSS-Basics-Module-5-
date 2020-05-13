@@ -1,2 +1,2 @@
-# CSS-Basics-Module-5-
+# Module-5-CSS-basics
 adding style to html
